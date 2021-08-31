@@ -1,5 +1,4 @@
-# luci-theme-infinityfreedom
-[ 中文说明 ](/README-zh_cn.md)
+# luci-theme-fruitbingo
 
 [1]: https://img.shields.io/badge/license-Apache2-brightgreen.svg
 [2]: /LICENSE

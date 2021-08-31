@@ -6,8 +6,8 @@
 
 include $(TOPDIR)/rules.mk
 
-THEME_NAME:=infinityfreedom
-THEME_TITLE:=infinityfreedom
+THEME_NAME:=fruitbingo
+THEME_TITLE:=fruitbingo
 
 PKG_NAME:=luci-theme-$(THEME_NAME)
 PKG_VERSION:=1.5.20210222
@@ -22,7 +22,7 @@ define Package/luci-theme-$(THEME_NAME)
   SUBMENU:=4. Themes
   DEPENDS:=+libc
   TITLE:=Infinity Freedom Theme
-  URL:=https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom
+  URL:=https://github.com/realJustinLee/luci-theme-fruitbingo
   PKGARCH:=all
 endef
 
