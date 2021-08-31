@@ -2,7 +2,7 @@
 
 [1]: https://img.shields.io/badge/license-Apache2-brightgreen.svg
 
-[2]: /LICENSE
+[2]: ./LICENSE
 
 [3]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg
 
@@ -62,5 +62,5 @@ Enable the Theme
 
 ScreenShots
 ----------------
-![](/screenshots/000.Login.png)
-![](/screenshots/001.Overview.png)
+![](./screenshots/000.Login.png)
+![](./screenshots/001.Overview.png)
