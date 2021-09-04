@@ -446,9 +446,9 @@ header > .container > .brand {
 }
 
 .brandMark:after {
-    content: "";
+    content: "\e9af";
     font-size: 14px;
-    font-family: Arial, 'PingFang SC', 'Microsoft Yahei', sans-serif;
+    font-family: 'HomeLedeIcomoon' !important;
     position: absolute;
     top: -10px;
     font-weight: normal !important;
