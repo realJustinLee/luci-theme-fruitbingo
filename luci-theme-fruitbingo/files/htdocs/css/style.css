@@ -58,7 +58,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 div#maincontent div.container table.table tbody#tableBody {
-    background-color: rgba(7, 34, 62, .4);
+    background-color: rgba(7, 34, 62, .5);
 }
 
 @font-face {
@@ -224,7 +224,7 @@ input,
     line-height: normal;
     font-size: 1.2rem;
     font-family: Arial, 'PingFang SC', 'Microsoft Yahei', sans-serif;
-    background-color: rgba(7, 34, 62, .4);
+    background-color: rgba(7, 34, 62, .5);
     transition: color 150ms ease, border-color 150ms ease, opacity 150ms ease;
     -webkit-transition: color 150ms ease, border-color 150ms ease, opacity 150ms ease;
     outline-style: none;
@@ -294,11 +294,10 @@ footer > a {
 }
 
 .main {
-    top: 4rem;
+    top: 4.5rem;
     bottom: 0;
     position: relative;
-    height: 100%;
-    height: calc(100% - 4rem);
+    height: calc(100% - 45rem);
 }
 
 .main > .loading {
@@ -381,9 +380,7 @@ footer > a {
 .main-left {
     float: left;
     top: 4.5rem;
-    width: 15%;
     width: calc(0% + 18rem);
-    height: 100%;
     height: calc(100% - 4.5rem);
     box-shadow: 0 0 2rem 0 rgba(136, 152, 170, .15);
     overflow-x: auto;
@@ -397,11 +394,11 @@ footer > a {
 
 
 .main-right {
-    width: 85%;
-    width: calc(100% - 17rem);
     float: right;
-    height: 100%;
-    text-shadow: 0 1px 3px #222;
+    top: 4.5rem;
+    height: calc(100% - 4.5rem);
+    width: calc(100% - 18rem);
+    text-shadow: 0 1px 1px #222;
 }
 
 .main-right > #maincontent {
@@ -445,7 +442,7 @@ header > .container > .brand {
     float: left;
     font-weight: 600;
     letter-spacing: 3px;
-    font-family: Apple Chancery, Arial, sans-serif;
+    font-family: Apple Chancery, "Edwardian Script ITC", Arial, sans-serif;
 }
 
 .brandMark:after {
@@ -830,7 +827,7 @@ fieldset {
     -webkit-overflow-scrolling: touch;
 
     background-repeat: no-repeat;
-    background-color: rgba(7, 34, 62, .4);
+    background-color: rgba(7, 34, 62, .5);
     background-size: cover;
     background-position: center center;
     border: 0 solid #07223e;
@@ -1977,7 +1974,7 @@ header > .container > .pull-right > * {
 .node-system-reboot > .main > .main-right h3 {
     font-size: 1.2rem;
     color: #ffffff;
-    background-color: rgba(7, 34, 62, .4);
+    background-color: rgba(7, 34, 62, .5);
 }
 
 /* fix Services  Network Shares*/
@@ -2149,7 +2146,7 @@ div#cbi-docker.cbi-map div.pure-g.status,
 div#cbi-dockerd.cbi-map div.pure-g.status {
     margin: 1rem 0rem 1rem 0rem;
     padding: 0 1rem;
-    background-color: rgba(7, 34, 62, .4);
+    background-color: rgba(7, 34, 62, .5);
 }
 
 div#cbi-docker.cbi-map div.pure-g.status div.pure-u-1-4,
