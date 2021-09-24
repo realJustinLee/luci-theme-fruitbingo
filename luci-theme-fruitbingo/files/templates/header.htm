@@ -199,13 +199,18 @@
 	<meta name="full-screen" content="yes">
 	<meta name="x5-page-mode" content="app">
 	<meta name="browsermode" content="application">
-	<meta name="theme-color" content="#0099CC">
 	<meta name="msapplication-tap-highlight" content="no">
 	<meta name="msapplication-TileColor" content="#0099CC">
 
 	<meta name="application-name" content='<%=striptags( (boardinfo.hostname or "?") ) %> - LuCI'>
 	<meta name="apple-mobile-web-app-title" content='<%=striptags( (boardinfo.hostname or "?") ) %> - LuCI'>
 	<meta name="msapplication-TileImage" content="<%=media%>/logo.png"/>
+	<meta name="theme-color"
+		  content="#516478"
+		  media="(prefers-color-scheme: light)">
+	<meta name="theme-color"
+		  content="#07223E"
+		  media="(prefers-color-scheme: dark)">
 	<link rel="icon" href="<%=media%>/logo.png" sizes="144x144">
 	<link rel="apple-touch-icon-precomposed" href="<%=media%>/logo.png" sizes="144x144">
 

@@ -810,7 +810,6 @@ label {
 }
 
 fieldset {
-    margin: 10px 0 0 0;
     padding: 2rem;
     border: 0;
     font-weight: normal;
@@ -834,7 +833,7 @@ fieldset {
     color: #fff;
     display: block;
     font-size: 1.2rem;
-    margin-bottom: 1.25rem;
+    margin: 10px 0 1.25rem;
     position: relative;
     /* For Firefox */
     scrollbar-color: rgba(238, 238, 238, .5) rgba(50, 50, 50, .3);
@@ -930,7 +929,7 @@ fieldset > .table > .tbody > .tr:nth-of-type(even) {
 #memcache > div > div,
 #memtotal > div > div {
     height: 1.4rem !important;
-    background-color: rgb(100, 181, 246) !important;
+    background-color: rgb(83, 172, 245) !important;
 }
 
 /* fix multiple table */
