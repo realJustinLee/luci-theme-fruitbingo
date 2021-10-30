@@ -2679,7 +2679,7 @@ div#cbi-homeconnect.cbi-map .cbi-value div.cbi-value-field > font.softethervpn_s
 
     body {
         line-height: 200%;
-        background: url('../images/main_bg.jpg');
+        background: url('../images/monterey.jpg');
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: center;
@@ -2704,7 +2704,7 @@ and (-webkit-min-device-pixel-ratio: 2) {
         left: 0;
         right: 0;
         z-index: -1; /* needed to keep in the background */
-        background: url('../images/main_bg.jpg') center center;
+        background: url('../images/monterey.jpg') center center;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
