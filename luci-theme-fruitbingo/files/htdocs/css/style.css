@@ -928,7 +928,7 @@ fieldset > .table > .tbody > .tr:nth-of-type(even) {
 #conns > div > div,
 #memcache > div > div,
 #memtotal > div > div {
-    height: 1.4rem !important;
+    height: 20px !important;
     background-color: rgb(83, 172, 245) !important;
 }
 
