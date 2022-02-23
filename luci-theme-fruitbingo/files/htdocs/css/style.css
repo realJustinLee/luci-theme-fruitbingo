@@ -190,7 +190,7 @@ body {
 }
 
 body div {
-    line-height: 150%;
+    line-height: 1.5;
 }
 
 a {
@@ -981,7 +981,7 @@ td > table > tbody > tr > td,
     white-space: nowrap;
     will-change: background, border, color, opacity;
     -webkit-appearance: none;
-    margin-top: -3px;
+    margin: 3px;
 }
 
 .cbi-button-fieldadd {
@@ -1782,6 +1782,7 @@ small {
     font-size: small;
     white-space: normal;
     color: white;
+    line-height: 1.5;
 }
 
 .cbi-button-up,
