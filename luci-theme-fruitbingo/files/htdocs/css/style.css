@@ -1794,6 +1794,15 @@ small {
     background-color: #9876AA;
 }
 
+.cbi-button-selectAll,
+.cbi-button-test {
+    display: inline-block;
+    min-width: 0;
+    padding: 0.2rem 0.3rem;
+    font-size: 10pt;
+	background-color: #9876AA;
+}
+
 .cbi-optionals {
     padding: 1rem 1rem 0 1rem;
     border-top: 1px solid #CCC;
