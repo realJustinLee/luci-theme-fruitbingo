@@ -1800,7 +1800,7 @@ small {
     min-width: 0;
     padding: 0.2rem 0.3rem;
     font-size: 10pt;
-	background-color: #9876AA;
+    background-color: #9876AA;
 }
 
 .cbi-optionals {
@@ -2102,8 +2102,8 @@ div#cbi-timewol.cbi-map .cbi-value.cbi-value-last div.cbi-value-field font.timew
 
 /* For luci-app-timecontrol */
 div#cbi-timecontrol.cbi-map fieldset.cbi-section-node > div.cbi-value > div.cbi-value-field > font {
-	display: block;
-	padding-top:6px;
+    display: block;
+    padding-top: 6px;
 }
 
 /* For luci-app-kodexplorer */
