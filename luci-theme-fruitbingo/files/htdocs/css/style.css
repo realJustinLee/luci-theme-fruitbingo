@@ -185,7 +185,7 @@ body {
     font-family: Arial, 'PingFang SC', 'Microsoft Yahei', sans-serif;
     line-height: 150%;
     color: #ffffff;
-    background: #07223e url(../images/monterey.jpg) fixed center center;
+    background: #07223e url(../images/ventura_graphic.jpg) fixed center center;
     background-size: cover;
 }
 
@@ -2705,7 +2705,7 @@ div#cbi-homeconnect.cbi-map .cbi-value div.cbi-value-field > font.softethervpn_s
 
     body {
         line-height: 200%;
-        background: url('../images/monterey.jpg');
+        background: url('../images/ventura_graphic.jpg');
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: center;
@@ -2730,7 +2730,7 @@ and (-webkit-min-device-pixel-ratio: 2) {
         left: 0;
         right: 0;
         z-index: -1; /* needed to keep in the background */
-        background: url('../images/monterey.jpg') center center;
+        background: url('../images/ventura_graphic.jpg') center center;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
