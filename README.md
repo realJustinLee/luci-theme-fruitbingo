@@ -30,7 +30,7 @@
 
 FruitBingo is a clean HTML5 theme for LuCI. It is based on luci-theme-material.
 
-Copyright 2021 Justin Lee <JustinDellAdam@live.com>
+Copyright 2022 Justin Lee <JustinDellAdam@live.com>
 
 This theme is specially designed for [Lean's OpenWrt](https://github.com/coolsnowwolf/lede), and can also be used for
 other versions of OpenWrt. It is currently compatible with Luci18, and other versions of Luci are planned to be
