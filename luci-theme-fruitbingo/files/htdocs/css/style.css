@@ -442,7 +442,7 @@ header > .container > .brand {
     float: left;
     font-weight: 600;
     letter-spacing: 3px;
-    font-family: Apple Chancery, "Edwardian Script ITC", Arial, sans-serif;
+    font-family: Party LET Plain, "Edwardian Script ITC", Arial, sans-serif;
 }
 
 .brandMark:after {
@@ -2448,7 +2448,7 @@ div#cbi-homeconnect.cbi-map .cbi-value div.cbi-value-field > font.softethervpn_s
         /*width: initial;*/
         padding-left: 5px;
         padding-right: 20px;
-        font-family: Apple Chancery, "Edwardian Script ITC", Arial, sans-serif;
+        font-family: Party LET Plain, "Edwardian Script ITC", Arial, sans-serif;
     }
 
     .main {
